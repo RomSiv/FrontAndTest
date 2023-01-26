@@ -1,0 +1,33 @@
+img{
+    width: 150px;
+    height: 350px;
+}
+
+p {
+    color: blue;
+    font-size: 32px;
+    display: inline;
+}
+
+.paragraf {
+    color: chartreuse;
+    font-size: 40px;
+}
+
+#p2 {
+    color: brown;
+}
+
+.image {
+    display: block;
+}
+
+#link_2 {
+    display: block;
+    color: calc();
+}
+
+#link_1 {
+    display: block;
+    color: currentColor;
+}
